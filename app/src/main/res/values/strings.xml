@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="movie_details">Movie Details</string>
+
+    <!-- Content description-->
+    <string name="poster_image_content_description">Movie poster image </string>-->
+
+    <!-- Movie poster content description -->
+    <string name="movie_poster_content_description_text">Movie Poster</string>
+
+    <!-- Details Labels -->
+    <string name="movie_title_label">Movie title: </string>
+    <string name="user_rating_label">User Rating: </string>
+    <string name="release_date_label">Release Date:</string>
+    <string name="plot_synopsis_label">Plot Synopsis:</string>
+
+
+    <!-- Titles for Alert Dialog -->
+    <string name="api_error_title">API ERROR</string>
+    <string name="online_error_title">ONLINE ERROR</string>
+
+    <!-- Error messages for Alert Dialog -->
+    <string name="api_error">You have not provided a valid API Key.
+        Go to themoviedb.org to get one. This app will be terminated.</string>
+    <string name="online_error">You are not currently online. Please check your cellular data or
+        WiFi settings. This app will be terminated.</string>
+
+
+    <!-- Used for Sorting -->
+
+    <string name="sort_by_popular">Sort by Popularity</string>
+    <string name="sort_by_rating">Sort by User Rating</string>
+
+    <string name="popular_filter">popular</string>
+    <string name="rating_filter">top_rated</string>
+
+</resources>
+

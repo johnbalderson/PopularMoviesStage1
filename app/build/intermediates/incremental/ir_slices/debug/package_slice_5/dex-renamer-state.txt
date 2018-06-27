@@ -1,0 +1,4 @@
+#Thu May 31 21:17:51 EDT 2018
+base.0=C\:\\GWGNano\\PopularMoviesStage1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
